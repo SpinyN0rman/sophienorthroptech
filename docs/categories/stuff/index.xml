@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stuff on Sopha Thoughts</title>
+    <link>https://sophie.northrop.tech/categories/stuff/</link>
+    <description>Recent content in stuff on Sopha Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Mar 2020 11:58:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sophie.northrop.tech/categories/stuff/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Third post</title>
+      <link>https://sophie.northrop.tech/posts/third-post/</link>
+      <pubDate>Sat, 21 Mar 2020 11:58:00 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/posts/third-post/</guid>
+      <description>Heading 2 Here&amp;rsquo;s some content!
+ This thing was said
+ Here&amp;rsquo;s a link to something</description>
+    </item>
+    
+  </channel>
+</rss>

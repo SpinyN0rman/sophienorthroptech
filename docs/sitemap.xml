@@ -3,17 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sophie.northrop.tech/posts/my-first-post/</loc>
-    <lastmod>2020-03-21T10:15:59+00:00</lastmod>
+    <loc>https://sophie.northrop.tech/categories/</loc>
+    <lastmod>2020-03-21T11:58:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sophie.northrop.tech/posts/</loc>
-    <lastmod>2020-03-21T10:15:59+00:00</lastmod>
+    <lastmod>2020-03-21T11:58:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sophie.northrop.tech/</loc>
+    <lastmod>2020-03-21T11:58:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sophie.northrop.tech/categories/stuff/</loc>
+    <lastmod>2020-03-21T11:58:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sophie.northrop.tech/posts/third-post/</loc>
+    <lastmod>2020-03-21T11:58:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sophie.northrop.tech/posts/my-first-post/</loc>
     <lastmod>2020-03-21T10:15:59+00:00</lastmod>
   </url>
   
@@ -27,10 +42,6 @@
   
   <url>
     <loc>https://sophie.northrop.tech/tags/thoughts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sophie.northrop.tech/categories/</loc>
   </url>
   
   <url>
