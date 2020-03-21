@@ -10,32 +10,5 @@
 	<atom:link href="https://sophie.northrop.tech/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title> things</title>
-      <link>https://sophie.northrop.tech/tags/things/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sophie.northrop.tech/tags/things/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> thoughts</title>
-      <link>https://sophie.northrop.tech/tags/thoughts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sophie.northrop.tech/tags/thoughts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stuff</title>
-      <link>https://sophie.northrop.tech/tags/stuff/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sophie.northrop.tech/tags/stuff/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
