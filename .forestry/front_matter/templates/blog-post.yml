@@ -28,3 +28,9 @@ fields:
   default: []
   label: Categories
   description: Link this post to others with the same theme
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+  description: Give your post a header image
