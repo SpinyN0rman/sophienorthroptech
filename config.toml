@@ -6,3 +6,4 @@ publishDir = "docs"
 
 [params]
   classes = ["feature-depth"]
+  author = ["Sophie Northrop"]
