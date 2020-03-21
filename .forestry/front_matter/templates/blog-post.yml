@@ -7,6 +7,16 @@ fields:
   config:
     required: true
   label: Title
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Summary
+  description: Write a brief summary of your post
 - name: author
   type: text
   config:
