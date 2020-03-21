@@ -28,5 +28,3 @@ fields:
   default: []
   label: Tags
   description: Link this post to others with the same theme
-pages:
-- content/posts/forestry post.md
