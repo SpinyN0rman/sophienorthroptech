@@ -4,10 +4,11 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: datetime
   name: date
-  label: date
+  label: Date
+  default: now
 - name: featured_image
   type: file
   config:
