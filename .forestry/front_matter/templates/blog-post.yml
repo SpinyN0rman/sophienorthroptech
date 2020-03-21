@@ -34,3 +34,5 @@ fields:
     maxSize: 250
   label: Image
   description: Give your post a header image
+pages:
+- content/posts/third-post.md
