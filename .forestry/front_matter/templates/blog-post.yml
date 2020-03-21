@@ -8,3 +8,9 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: featured_image
+  type: file
+  config:
+    maxSize: 250
+  label: Featured Image
+  description: Give your post a picture
