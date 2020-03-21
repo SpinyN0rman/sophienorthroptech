@@ -3,3 +3,6 @@ languageCode = "en-us"
 title = "Sopha Thoughts"
 theme = "story"
 publishDir = "docs"
+
+[params]
+  classes = ["feature-depth"]
