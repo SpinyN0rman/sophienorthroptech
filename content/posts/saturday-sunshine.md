@@ -1,6 +1,6 @@
 +++
 author = "Sophie Northrop"
-categories = ["Gardening", "Food and Cooking", "Gratitude", "Covid-19 Pandemic", "New Home", "Children’s Activities", "Funny stuff"]
+categories = ["Gardening", "Food and Cooking", "Gratitude", "Covid-19 Pandemic", "New Home", "Children’s Activities", "Funny Stuff"]
 date = 2020-03-21T20:15:18Z
 draft = true
 image = "/uploads/A8DD5A24-F597-4037-A090-2FA748AC5C8C.jpeg"
