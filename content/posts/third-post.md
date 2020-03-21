@@ -7,4 +7,12 @@ image = "/uploads/IMG_4688.JPG"
 title = "Third post"
 
 +++
+## Heading 2
+
 Here's some content!
+
+> This thing was said
+
+![](/uploads/buzz-andersen-145254-unsplash.jpg)
+
+[Here's a link to something](https://duckduckgo.com "DuckDuckGo")
