@@ -45,4 +45,5 @@ fields:
   label: Image
   description: Give your post a header image
 pages:
+- content/posts/saturday-sunshine.md
 - content/posts/third-post.md
