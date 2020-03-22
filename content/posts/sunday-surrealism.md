@@ -18,4 +18,4 @@ That’s not strict though. It depends on the day and the mood everyone’s in! 
 
 Got a bit sidetracked there.. On the subject of the screen however, we had a brand new experience this morning. Church came to our lounge. General social distancing advice, coupled with the Archbishops’ decision to close churches for Sunday worship until further notice, meant that we could not join in in the usual way. But boy did the leaders faithfully serve the community today! Three of them requested photos of the congregation so that they could print them off and put faces on chairs instead of bums on chairs. They filmed a familiarly structure service and live streamed it. We were incredibly moved by their act and words of encouragement. The toy dog was even present.
 
-472BDDB0-2528-4110-A5BE-2981A1BE6F4B.jpeg
+![](472BDDB0-2528-4110-A5BE-2981A1BE6F4B.jpeg)
