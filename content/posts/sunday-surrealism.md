@@ -23,4 +23,90 @@ On to an appointment with a kitchen manufacturer to finalise something for the j
 
 Home for cuppas, and eventually a dinner of gnocchi (very little pasta), baked in spiced tomato juice (tinned toms are a precious commodity), with peeled courgette and lots of garlic. Nice and filling. As we’re finishing up and tempting the kids with a couple more mouthfuls, Amber pipes up. She holds her hands about a foot apart, and inquires, “when older people shrink.. would they shrink this small?” I love the minds of children!
 
-Apples for dessert. Our Japanese friend Manami, who’d visit regularly when Amber was an infant, once told us that desserts weren’t as popular in their culture as in the UK. She and her family often finish their evening meal with an apple, too.
+Apples for dessert. Our Japanese friend Manami, who’d visit regularly when Amber was an infant, once told us that desserts weren’t as popular in their culture as in the UK. She and her family often finish their evening meal with an apple, too. Washed up to Alicia Keys’ essential playlist, and loving this song as an anthem for collectively getting through the current pandemic..
+
+**Alicia Keys**
+
+**”Unbreakable"**  
+  
+Clap your hands everybody  
+Clap your hands  
+Come on, keep it going  
+Clap your hands everybody  
+Clap your hands everybody  
+Clap your hands  
+Lets do it ,you ready?  
+Come on  
+  
+We could fight like Ike and Tina  
+Or give back like Bill and Camille  
+Be rich like Oprah and Steadman  
+Or instead struggle like Flow and James Evans  
+Cuz he ain't no different from you  
+And she ain't no different from me  
+So we got to live our dreams  
+Like the people on TV  
+  
+We gotta stay tuned  
+Cuz there's more to see (Unbreakable)  
+Through the technical difficulties (Unbreakable)  
+We might have to take a break  
+But ya'll know we'll be back next week  
+I'm singing this love is unbreakable  
+Oh yeah yeah...  
+  
+Yeah, clap your hands everybody  
+Clap your hands everybody  
+Lets do it like this, come on  
+  
+See, we could act out like Will and Jada(Will and Jada)  
+Or like Kimora and Russell makin' paper, oh yeah  
+All in the family like the Jacksons(like the Jacksons)  
+And have enough kids to make a band like Joe and Catherine, yeah  
+  
+She ain't no different from me  
+And he ain't no different from you  
+So we got to live our dreams  
+Like the people on TV  
+  
+We gotta stay tuned  
+Cuz there's more to see (Unbreakable)  
+Through the technical difficulties (Unbreakable)  
+We might have to take a break  
+But ya'll know we'll be back next week  
+I'm singing this love is unbreakable  
+  
+We're living our dreams...yeah...  
+We're living our dreams  
+We're living our dreams  
+We're living our dreeeeeeeeeeeeams  
+(ooooooooooooooooohhhhhhhhh)  
+We're living our dreams(We're living our dreams)  
+We're living our dreams(We're living our dreams)  
+We're living our dreeeeeeeeeeeeams  
+(oooooooohhhhhhh oohhh yeah yeah)  
+  
+And we got to stay tuned  
+Cuz there's more to see (Unbreakable)  
+Through the technical difficulties (Unbreakable)  
+We might have to take a break  
+But ya'll know we'll be back next week  
+I'm singing this love is unbreakable  
+Sing it one more time now  
+Ya'll know we'll be breaking up  
+But we just might be back next week  
+This love is unbreakable(ha,ha,ha,yeah,yeah)  
+Break it down, break it down like this  
+Yeah...  
+  
+No thing, no money, no sin, no temptation, talking 'bout nothing  
+No thing, no money, no sin, no temptation, talking 'bout nothing  
+No thing, no money, no sin, no temptation, talking 'bout nothing  
+No thing, no money, no sin, no temptation, talking 'bout nothing  
+Yeeeeeeaaaaahhh.......  
+(Unbreakable)  
+Yeah, yeah,yeah,yeah,yeah,yeah,yeah,yeah,yeah  
+(Unbreakable)  
+We just might be breaking up  
+But ya'll know we'll be back next week  
+I'm singing this love is unbreakable
