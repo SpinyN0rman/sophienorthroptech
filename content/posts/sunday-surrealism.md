@@ -1,10 +1,19 @@
 +++
 author = "Sophie Northrop"
-categories = []
+categories = ["Covid-19 Pandemic", "Special Days", "Food & Cooking", "Children’s Activities", "Religion", "Funny stuff"]
 date = 2020-03-22T20:12:58Z
 draft = true
 image = ""
-summary = ""
-title = "Sunday Surrealism"
+summary = "Things beginning to sink in, but not really."
+title = "Surreal Sunday"
 
 +++
+Day two in the Little Mother House, and it’s a Mother’s Day like no other! We began with the usual imperative CBeebies - Amber and Clara are in love with the television, and will beg, whinge and whine for it, so we have to ration it, but have chosen not to deny them of their love completely ;) A reasonable daily structure for them seems to be:
+
+* TV first thing in the morning at weekends, until about half eight. Often one of us will sit with them for some of this viewing, and secretly I quite enjoy a bit of _Octonauts_, or _Tinga Tinga._
+* Occasionally a shorter stint at 11am, with a snack to keep them going until lunch..
+* Finally I let them watch a bit after school if they ask for it - usually they do - while I do the dinners that take a bit more effort.
+
+That’s not strict though. It depends on the day and the mood everyone’s in! I find myself saying “last one!” or “two more!” so that the strops when it gets turned off are minimised. They still strop!! Then there’s the occasional TV dinner treat, and films with popcorn. My favourite.
+
+Got a bit sidetracked there.. On the subject of the screen however, we had a brand new experience this morning. Church came to our lounge. General social distancing advice, coupled with the Archbishops’ decision to close churches for Sunday worship until further notice, meant that we could not join in in the usual way. But boy did the leaders faithfully serve the community today! Three of them requested photos of the congregation so that they could print them off and put faces on chairs instead of bums on chairs. They filmed a familiarly structure service and live streamed it. We were incredibly moved by their act and words of encouragement. The toy dog was even present.
