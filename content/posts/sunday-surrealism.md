@@ -3,7 +3,7 @@ author = "Sophie Northrop"
 categories = ["Covid-19 Pandemic", "Special Days", "Food & Cooking", "Children’s Activities", "Religion", "Funny stuff"]
 date = 2020-03-22T20:12:58Z
 draft = true
-image = ""
+image = "/uploads/9B0E6604-EB78-46E7-AAD3-D1528123E212.jpeg"
 summary = "Things beginning to sink in, but not really."
 title = "Surreal Sunday"
 
