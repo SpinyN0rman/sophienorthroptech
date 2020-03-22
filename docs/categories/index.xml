@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Sopha Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Mar 2020 20:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2020 20:12:58 +0000</lastBuildDate>
     
 	<atom:link href="https://sophie.northrop.tech/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Children’s Activities</title>
       <link>https://sophie.northrop.tech/categories/childrens-activities/</link>
-      <pubDate>Sat, 21 Mar 2020 20:15:18 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2020 20:12:58 +0000</pubDate>
       
       <guid>https://sophie.northrop.tech/categories/childrens-activities/</guid>
       <description></description>
@@ -23,9 +23,45 @@
     <item>
       <title>Covid-19 Pandemic</title>
       <link>https://sophie.northrop.tech/categories/covid-19-pandemic/</link>
-      <pubDate>Sat, 21 Mar 2020 20:15:18 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2020 20:12:58 +0000</pubDate>
       
       <guid>https://sophie.northrop.tech/categories/covid-19-pandemic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food &amp; Cooking</title>
+      <link>https://sophie.northrop.tech/categories/food-cooking/</link>
+      <pubDate>Sun, 22 Mar 2020 20:12:58 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/categories/food-cooking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Funny Stuff</title>
+      <link>https://sophie.northrop.tech/categories/funny-stuff/</link>
+      <pubDate>Sun, 22 Mar 2020 20:12:58 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/categories/funny-stuff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Religion</title>
+      <link>https://sophie.northrop.tech/categories/religion/</link>
+      <pubDate>Sun, 22 Mar 2020 20:12:58 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/categories/religion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special Days</title>
+      <link>https://sophie.northrop.tech/categories/special-days/</link>
+      <pubDate>Sun, 22 Mar 2020 20:12:58 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/categories/special-days/</guid>
       <description></description>
     </item>
     
@@ -35,15 +71,6 @@
       <pubDate>Sat, 21 Mar 2020 20:15:18 +0000</pubDate>
       
       <guid>https://sophie.northrop.tech/categories/food-and-cooking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Funny Stuff</title>
-      <link>https://sophie.northrop.tech/categories/funny-stuff/</link>
-      <pubDate>Sat, 21 Mar 2020 20:15:18 +0000</pubDate>
-      
-      <guid>https://sophie.northrop.tech/categories/funny-stuff/</guid>
       <description></description>
     </item>
     

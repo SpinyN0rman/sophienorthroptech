@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Sopha Thoughts</title>
-    <link>https://sophie.northrop.tech/posts/</link>
-    <description>Recent content in Posts on Sopha Thoughts</description>
+    <title>Special Days on Sopha Thoughts</title>
+    <link>https://sophie.northrop.tech/categories/special-days/</link>
+    <description>Recent content in Special Days on Sopha Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Mar 2020 20:12:58 +0000</lastBuildDate>
     
-	<atom:link href="https://sophie.northrop.tech/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sophie.northrop.tech/categories/special-days/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://sophie.northrop.tech/posts/sunday-surrealism/</guid>
       <description>Things beginning to sink in, but not really.</description>
-    </item>
-    
-    <item>
-      <title>Saturday Sunshine</title>
-      <link>https://sophie.northrop.tech/posts/saturday-sunshine/</link>
-      <pubDate>Sat, 21 Mar 2020 20:15:18 +0000</pubDate>
-      
-      <guid>https://sophie.northrop.tech/posts/saturday-sunshine/</guid>
-      <description>A quiet day amidst the online noise</description>
     </item>
     
   </channel>
