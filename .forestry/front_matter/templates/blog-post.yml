@@ -45,5 +45,6 @@ fields:
   label: Image
   description: Give your post a header image
 pages:
+- content/posts/ministerial-monday.md
 - content/posts/saturday-sunshine.md
 - content/posts/sunday-surrealism.md
