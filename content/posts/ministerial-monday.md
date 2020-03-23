@@ -11,7 +11,7 @@ Another beautifully sunny day, we occupied the patio for a solid three hours, un
 
 After fresh air above and beyond our quota we moved back upstairs for a film, _You Can Tutu_, available currently on Netflix. The girls have watched this intently about three times to date, sinking into the world of amateur ballet competitions, friendship and family dynamics. The low budget characteristics of the picture flies completely over their heads every time, while I dip in and out, mostly cringing but sometimes enjoying! I noticed with delight the name of an old secondary school classmate in the titles: Sophie Monro-Pruett’s costumes were a highlight; she’s a real talent.
 
-Folk around the country have started putting up pictures of rainbows in their windows so that passers by can have a bit of fun and share in solidarity. These last few days have felt as unreal as the computer generated image above, which my daughter made a while back.
+Folk around the country have started putting up pictures of rainbows in their windows so that passers by can have a bit of fun spotting them and share in solidarity. These last few days have felt as unreal as the computer generated image above, which my daughter made a while back.
 
 Dinner was salmon from the freezer, with a small amount of brown rice, and some leftover couscous. I cooked the salmon with broccoli, and used up some shop-bought breadcrumbs and half a packet of parsley sauce. Not sure if I’m selling it or not, but it was delicious. The cat tried his luck when his little pink nose sussed out the menu..
 
