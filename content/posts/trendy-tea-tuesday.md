@@ -23,6 +23,7 @@ Activities today included:
 * (Amber) making some cardboard traffic lights.
 * Sweeping more of the patio, and (the children) scrubbing their Wendy house.
 * Writing down two new facts for Nanny before bedtime - a challenge she set in the absence of school.
-* Tidying, Hoovering, preparing food.
+* Attempting to tidy, Hoovering, preparing food.
 * Relaxing, and getting hiccups from peppermint tea.
-* Andi playing a new multiplayer online game, and loving it!
+* Andi playing a new multiplayer online game, and loving it.
+* Accidentally humming _Baby Shark_ and getting told off by everyone for “starting it”.
