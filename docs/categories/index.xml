@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Sopha Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2020 20:50:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 21:28:47 +0000</lastBuildDate>
     
 	<atom:link href="https://sophie.northrop.tech/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,36 @@
     <item>
       <title>Children’s Activities</title>
       <link>https://sophie.northrop.tech/categories/childrens-activities/</link>
-      <pubDate>Mon, 23 Mar 2020 20:50:13 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2020 21:28:47 +0000</pubDate>
       
       <guid>https://sophie.northrop.tech/categories/childrens-activities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coved-19 Pandemic</title>
+      <link>https://sophie.northrop.tech/categories/coved-19-pandemic/</link>
+      <pubDate>Tue, 24 Mar 2020 21:28:47 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/categories/coved-19-pandemic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food &amp; Cooking</title>
+      <link>https://sophie.northrop.tech/categories/food-cooking/</link>
+      <pubDate>Tue, 24 Mar 2020 21:28:47 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/categories/food-cooking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gardening</title>
+      <link>https://sophie.northrop.tech/categories/gardening/</link>
+      <pubDate>Tue, 24 Mar 2020 21:28:47 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/categories/gardening/</guid>
       <description></description>
     </item>
     
@@ -30,29 +57,11 @@
     </item>
     
     <item>
-      <title>Food &amp; Cooking</title>
-      <link>https://sophie.northrop.tech/categories/food-cooking/</link>
-      <pubDate>Mon, 23 Mar 2020 20:50:13 +0000</pubDate>
-      
-      <guid>https://sophie.northrop.tech/categories/food-cooking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Funny Stuff</title>
       <link>https://sophie.northrop.tech/categories/funny-stuff/</link>
       <pubDate>Mon, 23 Mar 2020 20:50:13 +0000</pubDate>
       
       <guid>https://sophie.northrop.tech/categories/funny-stuff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gardening</title>
-      <link>https://sophie.northrop.tech/categories/gardening/</link>
-      <pubDate>Mon, 23 Mar 2020 20:50:13 +0000</pubDate>
-      
-      <guid>https://sophie.northrop.tech/categories/gardening/</guid>
       <description></description>
     </item>
     
