@@ -22,7 +22,7 @@ Activities today included:
 * (Amber) making some cardboard traffic lights, weighed down by birdseed.
 * Clara applying play makeup to her face, and taking it to a whole new level with a “scary” costume to match.
 * Sweeping more of the patio, and (the children) scrubbing their Wendy house.
-* Writing down two new facts for Nanny before bedtime - a challenge she set yesterday in the absence of school.
+* Writing down two new facts for Nanny before bedtime - a challenge she set over the phone yesterday in the absence of school.
 * Attempting to tidy, Hoovering, preparing food.
 * Relaxing, and getting hiccups from peppermint tea.
 * Andi playing a new multiplayer online game, and loving it.
