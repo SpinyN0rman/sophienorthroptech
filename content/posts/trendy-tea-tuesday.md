@@ -27,3 +27,5 @@ Activities today included:
 * Relaxing, and getting hiccups from peppermint tea.
 * Andi playing a new multiplayer online game, and loving it.
 * Accidentally humming **_Baby Shark_** and getting told off by everyone for “starting it”.
+
+![](/uploads/62CBACAC-84B5-4B7E-956A-A6FE9A58C1E5.jpeg)
