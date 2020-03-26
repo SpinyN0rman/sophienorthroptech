@@ -1,6 +1,6 @@
 +++
 author = "Sophie Northrop"
-categories = ["Coved-19 Pandemic", "Self Care", "Mental health", "Children’s Activities"]
+categories = ["Coved-19 Pandemic", "Self Care", "Mental health", "Children’s Activities", "Religion"]
 date = 2020-03-26T07:38:11Z
 draft = true
 image = ""
@@ -15,3 +15,9 @@ After watching the news this evening, ”whoops” too for the feeling of many i
 On a happier note, and my mum is very good at finding the positive in any situation, much better than me!.. More than 400,000 people have so far signed up to volunteer with the NHS from home or out in the community.
 
 Relax, everything is out of control. Buddhist thought.
+
+Girls made a den.
+
+Girls had a play bath.
+
+I had a bath. Got a massive headache. Have made a note, but for now will put it down to anxiety. Wrote this the following morning.
