@@ -17,3 +17,5 @@ Ration food
 Ration Queer Eye
 
 party in the morning meant we brushed our teeth, styled our hair, girls even put lipstick on! So instinctive, I very rarely wear makeup!
+
+Clapped out the window at 20:03 for NHS staff, almost forgetting until I heard fireworks and eventually it clicked and I sprang to my feet!
