@@ -15,3 +15,5 @@ It’s a small thing really but the food shop was the thing which unsettled me t
 Ration food
 
 Ration Queer Eye
+
+party in the morning meant we brushed our teeth, styled our hair, girls even put lipstick on! So instinctive, I very rarely wear makeup!
