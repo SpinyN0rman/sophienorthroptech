@@ -3,7 +3,7 @@ author = "Sophie Northrop"
 categories = []
 date = 2020-03-27T18:53:20Z
 draft = true
-image = ""
+image = "/uploads/78858DCE-01E7-47F9-B01F-27AD8778076A.jpeg"
 summary = "It Takes Two"
 title = "Flapjack Friday"
 
