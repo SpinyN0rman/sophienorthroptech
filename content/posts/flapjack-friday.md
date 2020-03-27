@@ -16,4 +16,4 @@ It took two “thank you Mummy”s to melt my heart after dinners had been eaten
 
 It took way more than two days after dismantling the kitchen to get round to putting it back together again with some sort of coherence.. so glad it’s finally done!
 
-It Takes Two. The three females in the household watched the film starring the Olsen twins this afternoon - I’m not sure the one male would have tolerated it! I enjoy the odd cute romcom like this, and was more than happy to switch off to it. Attempted a nap but didn’t happen this time.
+It Takes Two. The three females in the household watched the film starring the Olsen twins this afternoon - I’m not sure the one male would have tolerated it! I enjoy the odd cute romcom like this, and was more than happy to switch off to it. I’m angling for Hook next time. Attempted a nap but didn’t happen this time. 
