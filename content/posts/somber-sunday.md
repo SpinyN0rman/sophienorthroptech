@@ -10,9 +10,11 @@ title = "Somber Sunday"
 +++
 Had a carton like at church sometimes, us coffee, with one of our flapjacks each. Church was thought provoking, comforting, emotional.
 
+again, feeling lower today. Less interested in children, more anxious. Made sure I took care of self, deliberate decision to slow everything down to help myself worry less while at work.
+
 “grown up” telly for Clara,  noticing the age difference.
 
-lots of dressing up. Business.
+lots of dressing up. Business attire today.
 
 lots of mess.
 
@@ -25,3 +27,5 @@ i went to work, to complete what will probably be my last shift for a month, if 
 news extremely sobering again.
 
 antiques roadshow was light relief. At Salisbury cathedral. Some fascinating objects - colour changing sapphire, 16th? Century dental tools, a Church dog separator, a laundry basher, letters from Enid blyton, highly valuable service medals, a Buddha from the 3rd or 4th century, the most exquisite embroidery, napoleon’s personal belongings, amazing cartoon work and painted Christmas cards, and queen victoria’s knickers!
+
+home for cuppa, leftover buttery mash, some crisps, and opened the longer life bread (rye & seed).. I didn’t mind the change - but heck would the kids!
