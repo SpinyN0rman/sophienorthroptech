@@ -1,0 +1,27 @@
++++
+author = "Sophie Northrop"
+categories = []
+date = 2020-03-29T21:33:36Z
+draft = true
+image = ""
+summary = "Church, home from home"
+title = "Somber Sunday"
+
++++
+Had a carton like at church sometimes, us coffee, with one of our flapjacks each. Church was thought provoking, comforting, emotional.
+
+“grown up” telly for Clara,  noticing the age difference.
+
+lots of dressing up. Business.
+
+lots of mess.
+
+lady and the tramp with daddy and popcorn, kicked over the floor in a moment of enthusiastic acting.
+
+girls went for a very brief nature walk with daddy across the road and around the churchyard.
+
+i went to work, to complete what will probably be my last shift for a month, if not longer. I chose not to play music, but took it quietly and slowly and was Still really productive.
+
+news extremely sobering again.
+
+antiques roadshow was light relief. At Salisbury cathedral. Some fascinating objects - colour changing sapphire, 16th? Century dental tools, a Church dog separator, a laundry basher, letters from Enid blyton, highly valuable service medals, a Buddha from the 3rd or 4th century, the most exquisite embroidery, napoleon’s personal belongings, amazing cartoon work and painted Christmas cards, and queen victoria’s knickers!
