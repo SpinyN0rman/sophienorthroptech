@@ -18,6 +18,8 @@ lots of dressing up. Business attire today.
 
 lots of mess.
 
+andi made the lovely gnocchi dish from his secret Santa cookbook for lunch. It was as mouthwatering as I remembered. A solid new favourite for me, maybe approaching spaghetti bolognese levels of adoration - which by the way since cutting down on meat has left a very large hole indeed in my comfort food repertoire!!
+
 lady and the tramp with daddy and popcorn, kicked over the floor in a moment of enthusiastic acting.
 
 girls went for a very brief nature walk with daddy across the road and around the churchyard.
