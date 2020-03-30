@@ -10,7 +10,7 @@ title = "Multitasking Monday"
 +++
 When I rearranged the kitchen last week I put the cereal in the bottom cupboard so the kids could reach it. Potential risk for mess? Yes! But Amber especially is helping herself to breakfast and loving the independence. Our new routine.. As soon as I hear the fridge door open I spring to life and hop-hobble to the kitchen to pour milk before Clara does! Particularly as we’re avoiding unnecessary trips to shops.
 
-Amber wrote out a typical class schedule for the day over the weekend, so that I’d know what to expect when homeschooling commenced this week. (I think she’s schooling me..)
+Amber wrote out a typical class schedule for the day over the weekend, so that I’d know what to expect when homeschooling commenced today. (I think she’s schooling me..)
 
 Both of them were so cute getting dressed in school uniform this morning, the classroom set-up being equally as important to them. Role play was clearly the name of the game, so I entered into it wholeheartedly and took a very short register, followed by an assembly! Much to my kids’ amusement.
 
