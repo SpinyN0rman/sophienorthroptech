@@ -3,7 +3,7 @@ author = "Sophie Northrop"
 categories = ["Home School", "Covid-19 Pandemic", "Children’s Activities", "Food & Cooking"]
 date = 2020-03-30T15:59:19Z
 draft = true
-image = ""
+image = "/uploads/7630D593-9D2D-4A20-878E-4316EF190599.jpeg"
 summary = "First day being both mum and teacher"
 title = "Multitasking Monday"
 
