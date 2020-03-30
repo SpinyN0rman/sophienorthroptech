@@ -8,9 +8,8 @@ summary = "First day being both mum and teacher"
 title = "Multitasking Monday"
 
 +++
-When I rearranged the kitchen last week I put the cereal in the bottom cupboard so the kids could reach it. Potential risk for mess, yes! But especially Amber is helping herself to breakfast and loving the independence. As soon as I hear the fridge door open I spring to life and hop-hobble to the kitchen to pour milk before Clara does!
+When I rearranged the kitchen last week I put the cereal in the bottom cupboard so the kids could reach it. Potential risk for mess, yes! But especially Amber is helping herself to breakfast and loving the independence. Our new routine.. As soon as I hear the fridge door open I spring to life and hop-hobble to the kitchen to pour milk before Clara does!
 
-  
 “Indoor skate park” for racing cars.
 
 Amber’s schedule for the day
