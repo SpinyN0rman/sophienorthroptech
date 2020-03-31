@@ -19,6 +19,8 @@ There Amber and Clara set up a stage, and delivered a short but highly theatrica
 
 It’s a minuscule thing really but the food shop was the thing which unsettled me today, I think simply because it was so different to usual, and yet some people seemingly still not keeping their distance. The checkout operator who served me was so unbelievably friendly, we had a lovely chat about the areas we’d lived in, the churches we’d married in, the fact that his wife was also beavering away two checkouts beyond, but I was wearing a mask (Although I’m not sure how effective it was, it gave me some comfort while weaving round and round Asda and the people sharing it) and he wasn’t, nor had he been given a screen yet. They’d done well to encourage distancing in queues and isles though.
 
-Flung open the window and clapped at 20:04 to sincerely thank NHS (and other key sector) staff for all their sacrificial work, almost forgetting the prearranged applause until I heard fireworks and eventually it clicked and I sprang to my feet! _THANK YOU_, everyone.
+Flung open the window and clapped at 20:04 to sincerely thank NHS (and other key sector) staff for all their sacrificial work, almost forgetting the prearranged applause until I heard fireworks and eventually it clicked and I sprang to my feet!
+
+**_THANK YOU, EVERYONE._**
 
 Settling down to some light telly, Andi and I realised that aside from rationing our food slightly, we’d be rationing **_Queer Eye_**, too, as we reach the end of the final available season. So half an episode it is! A sort of self inflicted cliffhanger..
