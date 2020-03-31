@@ -3,7 +3,7 @@ author = "Sophie Northrop"
 categories = ["Covid-19 Pandemic", "Children’s Activities", "Food & Cooking"]
 date = 2020-03-26T21:13:03Z
 image = "/uploads/CEDDB0E4-A98A-4A15-941D-ABD7628D48ED.jpeg"
-summary = "“Counting” Our Blessings"
+summary = "“Counting” our blessings"
 title = "Thankful Thursday"
 
 +++
