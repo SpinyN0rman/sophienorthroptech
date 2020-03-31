@@ -18,6 +18,14 @@ Other activities included:
 * drawing step by step pictures using our favoured **_Art Hub for Kids_** You Tube channel,
 * writing out a couple of facts for Nanny,
 * Doing ONE maths problem, because “I hate maths”,
-* Clara completing a couple of puzzles again, one with yours truly.
+* Clara completing a couple of puzzles again; one with yours truly.
 
-Excercise. PE with Joe. Amber managed ten minutes. Clara was umpire on a chair on a a table and fell so was then cross with me so didn’t join in.. until the dancing section when we had a sweet spin around together and for two minutes all was forgiven! I said, woah that made me feel good, I think we’ll do it every day, what do you think? NOOOOO! But how many days until his Fancy Dress Friday? Aah, he reeled them in with dressing up!! Thankfully - this was a saving grace for me on a tricky day.
+Excercise. **_PE with Joe_**. Amber managed ten minutes. Clara was umpire on-a-chair-on-a-table and fell so was then cross with me so didn’t join in.. until the dancing section when we had a lovely spin around together and for two minutes all was forgiven! I said, 
+
+“Woah that made me feel good, I think we’ll do it every day, what do you think?” 
+
+“NOOOOO! But how many days until his Fancy Dress Friday?”
+
+Aah, he reeled them in with dressing up!! Thank you, Joe - this was a saving grace for me on a tricky day.
+
+Fed the bubbas mini pizzas early, and then had a go at pizza dough for us grown ups’ meal. It was worth the try.. very tasty. Ate a TV dinner with some Pepsi Max. Deliberately taking a night off the news. I’ll allow myself an evening of ignorance in exchange for a better mood in the morning!
