@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Sopha Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2020 21:28:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 18:53:20 +0000</lastBuildDate>
     
 	<atom:link href="https://sophie.northrop.tech/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,27 +14,63 @@
     <item>
       <title>Children’s Activities</title>
       <link>https://sophie.northrop.tech/categories/childrens-activities/</link>
-      <pubDate>Tue, 24 Mar 2020 21:28:47 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2020 18:53:20 +0000</pubDate>
       
       <guid>https://sophie.northrop.tech/categories/childrens-activities/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Coved-19 Pandemic</title>
-      <link>https://sophie.northrop.tech/categories/coved-19-pandemic/</link>
-      <pubDate>Tue, 24 Mar 2020 21:28:47 +0000</pubDate>
+      <title>Covid-19 Pandemic</title>
+      <link>https://sophie.northrop.tech/categories/covid-19-pandemic/</link>
+      <pubDate>Fri, 27 Mar 2020 18:53:20 +0000</pubDate>
       
-      <guid>https://sophie.northrop.tech/categories/coved-19-pandemic/</guid>
+      <guid>https://sophie.northrop.tech/categories/covid-19-pandemic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food &amp; Cooking</title>
       <link>https://sophie.northrop.tech/categories/food-cooking/</link>
-      <pubDate>Tue, 24 Mar 2020 21:28:47 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2020 21:13:03 +0000</pubDate>
       
       <guid>https://sophie.northrop.tech/categories/food-cooking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coved-19 Pandemic</title>
+      <link>https://sophie.northrop.tech/categories/coved-19-pandemic/</link>
+      <pubDate>Thu, 26 Mar 2020 07:38:11 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/categories/coved-19-pandemic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental health</title>
+      <link>https://sophie.northrop.tech/categories/mental-health/</link>
+      <pubDate>Thu, 26 Mar 2020 07:38:11 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/categories/mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Religion</title>
+      <link>https://sophie.northrop.tech/categories/religion/</link>
+      <pubDate>Thu, 26 Mar 2020 07:38:11 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/categories/religion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self Care</title>
+      <link>https://sophie.northrop.tech/categories/self-care/</link>
+      <pubDate>Thu, 26 Mar 2020 07:38:11 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/categories/self-care/</guid>
       <description></description>
     </item>
     
@@ -48,29 +84,11 @@
     </item>
     
     <item>
-      <title>Covid-19 Pandemic</title>
-      <link>https://sophie.northrop.tech/categories/covid-19-pandemic/</link>
-      <pubDate>Mon, 23 Mar 2020 20:50:13 +0000</pubDate>
-      
-      <guid>https://sophie.northrop.tech/categories/covid-19-pandemic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Funny Stuff</title>
       <link>https://sophie.northrop.tech/categories/funny-stuff/</link>
       <pubDate>Mon, 23 Mar 2020 20:50:13 +0000</pubDate>
       
       <guid>https://sophie.northrop.tech/categories/funny-stuff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Religion</title>
-      <link>https://sophie.northrop.tech/categories/religion/</link>
-      <pubDate>Sun, 22 Mar 2020 20:12:58 +0000</pubDate>
-      
-      <guid>https://sophie.northrop.tech/categories/religion/</guid>
       <description></description>
     </item>
     
