@@ -20,7 +20,9 @@ Lunch time approaches, and Andi has resolved to swap his daily row for a daily b
 
 Watched a David Attenborough programme for some educational down time.
 
-The girls loved constructing an “indoor skate park” for racing cars out of books and masking tape. I got stuck in for a bit, and we made varying levels of difficulty. It was good fun! Clara simultaneously made the sofa into a bouncy slide. Nice to see them engaging in something usually considered a boy’s game with such excitement.
+The girls loved constructing an “indoor skate park” for racing toy cars out of books and masking tape. I got stuck in for a bit, and we made varying levels of difficulty. It was good fun! Clara simultaneously made the sofa into a bouncy slide. Nice to see them engaging in something usually considered a boy’s game with such excitement.
+
+![](/uploads/C7C8FFAC-9D33-4522-A47E-A46843D66286.jpeg)
 
 Chatting to my old friend on WhatsApp this evening, who, along with her husband, is a doctor, I felt that feeling of hideous uselessness bubble to the surface. I so wanted to offer them childcare in this situation, but my asthma and Andi’s bronchiectasis prevent me. This feeling I think has begun to haunt me over the last few days, as it dawns on me that my primary task in all of this is to hunker down with my family and remain as sane as possible so that I can impart sanity and peace to those in my household and those I chat with virtually. That’s it! No building a new hospital like my uncle, no caring for the sick or elderly like my friends, no keeping a company afloat. Just eating a slice of humble pie as I stay indoors and navigate a new virtual world.
 
