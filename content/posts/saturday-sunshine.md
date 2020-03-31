@@ -4,7 +4,7 @@ categories = ["Gardening", "Food and Cooking", "Gratitude", "Covid-19 Pandemic",
 date = 2020-03-21T20:15:18Z
 image = "/uploads/A8DD5A24-F597-4037-A090-2FA748AC5C8C.jpeg"
 summary = "A quiet day amidst the online noise"
-title = "Saturday Sunshine"
+title = "Sunshine Saturday"
 
 +++
 The UK is officially in what one might call a soft lockdown, with schools closed to the vast majority of pupils, and socialising in person discouraged now for nearly a week..
