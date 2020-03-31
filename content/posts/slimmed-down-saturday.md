@@ -10,7 +10,7 @@ title = "Slimmed Down Saturday"
 +++
 Wren closed.
 
-cleared some of jungle. Fun with centipede, cleaning tiles, moving brambles for mummy, uncovering old cases with daddy in hidden shed, after digging down to release door.
+cleared some of jungle. Fun with centipede, cleaning tiles, moving brambles for mummy, uncovering old cases with daddy in hidden shed, after digging down to release door. Think this might be our last saunter to the bungalow, this feels privileged but nonessential. My heart sinks as the realisation that we’ll be waiting even longer to move into our new home sinks in.
 
 quiz night with friends. Go into detail.
 
