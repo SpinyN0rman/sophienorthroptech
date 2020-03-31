@@ -14,13 +14,15 @@ Amber wrote out a typical class schedule for the day over the weekend, so that I
 
 Both of them were so cute getting dressed in school uniform this morning, the classroom set-up being equally as important to them. Role play was clearly the name of the game, so I entered into it wholeheartedly and took a very short register, followed by an assembly! Much to my kids’ amusement.
 
-stickers, drink bottles, snacks, hovering around the room, printouts, writing the date on the board, even did a mini assembly about taking things slowly!! All because my child actually likes school and misses the structure, and I wanted to make it fun for them so bearable for me. Didn’t start until gone 10am, massive playtimes in the middle, just took it as it came and followed my eldest daughter’s lead. Found an old wooden number puzzle for youngest, and she got out a farm puzzle, too. We’re doing things we haven’t in ages, because they are bobbing around the place bored, noticing all these things because even they are going at a slower pace (in their own way) too.
+![](/uploads/F7F902D1-E15F-490F-A563-A188FC171B59.jpeg)
+
+We did the whole shebang: stickers, drink bottles, snacks, hovering around the room, printouts, writing the date on the board. All because my child actually likes school and misses the structure, and I wanted to make it fun for them thus bearable for me. Didn’t start until gone 10am, massive playtimes in the middle, just took it as it came and followed my eldest daughter’s lead. Found an old wooden number puzzle for youngest, and she got out a farm puzzle, too. We’re doing things we haven’t in ages, because they are bobbing around the place bored, noticing all these things because even they are going at a slower pace (in their own way) too.
 
 Lunch time approaches, and Andi has resolved to swap his daily row for a daily brisk walk, primarily to get the fresh air his routine now lacks without a school run. This makes me nervous, if I’m being completely honest, but deep down I suppose it’s relatively low risk, and have to acknowledge that he too has needs when it comes to sanity, as much as the next person. With the fresh bread finished, we’re on to wraps for lunch. Filled with grated cheese, diced cucumber and mayonnaise, they were a hit.
 
 Watched a David Attenborough programme for some educational down time.
 
-The girls loved constructing an “indoor skate park” for racing toy cars out of books and masking tape. I got stuck in for a bit, and we made varying levels of difficulty. It was good fun! Clara simultaneously made the sofa into a bouncy slide. Nice to see them engaging in something usually considered a boy’s game with such excitement.
+The girls loved constructing an “indoor skate park” for racing toy cars, out of books and masking tape. I got stuck in for a bit, and we made varying levels of difficulty. It was good fun! Clara simultaneously made the sofa into a bouncy slide. Nice to see them engaging in something usually considered a boy’s game with such excitement.
 
 ![](/uploads/C7C8FFAC-9D33-4522-A47E-A46843D66286.jpeg)
 
