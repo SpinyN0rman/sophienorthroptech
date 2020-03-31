@@ -2,7 +2,6 @@
 author = "Sophie Northrop"
 categories = ["Home School", "Covid-19 Pandemic", "Children’s Activities", "Food & Cooking"]
 date = 2020-03-30T15:59:19Z
-draft = true
 image = "/uploads/1D57E2C2-630B-45FE-A6C5-D46C59F863B3.jpeg"
 summary = "First day being both mum and teacher"
 title = "Multitasking Monday"
@@ -13,6 +12,8 @@ When I rearranged the kitchen last week I put the cereal in the bottom cupboard 
 Amber wrote out a typical class schedule for the day over the weekend, so that I’d know what to expect when homeschooling commenced today. (I think she’s schooling me..)
 
 Both of them were so cute getting dressed in school uniform this morning, the classroom set-up being equally as important to them. Role play was clearly the name of the game, so I entered into it wholeheartedly and took a very short register, followed by an assembly! Much to my kids’ amusement.
+
+![](/uploads/962B37EF-BC51-4AD4-A357-294C1D54915A.jpeg)
 
 We did the whole shebang: stickers, drink bottles, snacks, hovering around the room, printouts, writing the date on the board. All because my child actually likes school and misses the structure, and I wanted to make it fun for them thus bearable for me. Didn’t start until gone 10am, massive playtimes in the middle, just took it as it came and followed my eldest daughter’s lead. Found an old wooden number puzzle for youngest, and she got out a farm puzzle, too. We’re doing things we haven’t in ages, because they are bobbing around the place bored, noticing all these things because even they are going at a slower pace (in their own way) too.
 
