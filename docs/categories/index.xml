@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Sopha Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2020 18:53:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 20:50:22 +0000</lastBuildDate>
     
 	<atom:link href="https://sophie.northrop.tech/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Children’s Activities</title>
       <link>https://sophie.northrop.tech/categories/childrens-activities/</link>
-      <pubDate>Fri, 27 Mar 2020 18:53:20 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2020 20:50:22 +0000</pubDate>
       
       <guid>https://sophie.northrop.tech/categories/childrens-activities/</guid>
       <description></description>
@@ -23,18 +23,36 @@
     <item>
       <title>Covid-19 Pandemic</title>
       <link>https://sophie.northrop.tech/categories/covid-19-pandemic/</link>
-      <pubDate>Fri, 27 Mar 2020 18:53:20 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2020 20:50:22 +0000</pubDate>
       
       <guid>https://sophie.northrop.tech/categories/covid-19-pandemic/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Excercise</title>
+      <link>https://sophie.northrop.tech/categories/excercise/</link>
+      <pubDate>Tue, 31 Mar 2020 20:50:22 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/categories/excercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Food &amp; Cooking</title>
       <link>https://sophie.northrop.tech/categories/food-cooking/</link>
-      <pubDate>Thu, 26 Mar 2020 21:13:03 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2020 20:50:22 +0000</pubDate>
       
       <guid>https://sophie.northrop.tech/categories/food-cooking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home School</title>
+      <link>https://sophie.northrop.tech/categories/home-school/</link>
+      <pubDate>Tue, 31 Mar 2020 20:50:22 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/categories/home-school/</guid>
       <description></description>
     </item>
     
