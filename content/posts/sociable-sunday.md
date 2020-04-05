@@ -16,6 +16,8 @@ church and zoom coffee
 
 g and g birthday call
 
+crackers play a useful part in lunchtimes now that popping out for bread is not so clever
+
 Childish gambino
 
 sort out box of paper and junk, clearing notebook
