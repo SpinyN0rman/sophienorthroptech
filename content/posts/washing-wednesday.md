@@ -15,4 +15,6 @@ In the meantime, some cool music vids. One about entrepreneurial son. One about 
 
 ![](/uploads/FEEF7F6F-BA1F-441C-BE81-AB2F055C8F0F.jpeg)
 
-On beauty, the girls and I painted our nails today. Clara loves having this done, and I must admit that if the colour’s nice enough for me to keep it on for a week, I love it too! I’ve often considered trying something longer lasting such as Shellac one day. Could be practical for hands that scrub for a living. Maybe will look into cost, and environmental impact, once we can leave the house for non-essentials... My Mum’s friend always has such beautiful nails, yet not overdone, which I know she considers her treat to herself once every couple of weeks or so. Self care is indeed important, perhaps especially when it doesn’t come naturally ;)
+On beauty, the girls and I painted our nails today. Clara loves having this done, and I must admit that if the colour’s nice enough for me to keep it on for a week, I love it too! I’ve often considered trying something longer lasting such as Shellac one day. Could be practical for hands that scrub for a living. Maybe will look into cost, and environmental impact, once we can leave the house for non-essentials... My Mum’s friend always has such beautiful nails, yet not overdone, which I know she considers her treat to herself once every couple of weeks or so. Self care is indeed important, perhaps especially when it doesn’t come naturally. As with me, generally speaking.
+
+Time to take a leaf out of Alicia’s book and instigate an end of day routine? ..
