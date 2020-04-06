@@ -18,6 +18,6 @@ garden, lots of new colour
 
 dads birthday, strange not making plans to eat out.
 
-lasagne, veggie, first make. Very impressed and had seconds!
+lasagne, veggie, first make. Very impressed and had seconds! Ate in front of Aladdin with girls. Liked it!
 
 quiz evening with family
