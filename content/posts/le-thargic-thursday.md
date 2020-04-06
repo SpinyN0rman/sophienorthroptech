@@ -8,8 +8,10 @@ summary = ""
 title = "Le-thargic Thursday"
 
 +++
-Made vegan cupcakes with children
+Made vegan cupcakes with children. All the different spellings of “cake” were amazing!!
 
 Did some Times Tables Rockstars
 
 Played Exploding Kittens with friends
+
+![](/uploads/56CA08F8-BE2A-4DF0-A205-18919D32A742.jpeg)
