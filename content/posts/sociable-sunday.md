@@ -23,3 +23,5 @@ Childish gambino
 sort out box of paper and junk, clearing notebook
 
 mums hug ring
+
+96EC27B7-5F54-4F06-8B21-3F9A2DD0A74D.jpeg
