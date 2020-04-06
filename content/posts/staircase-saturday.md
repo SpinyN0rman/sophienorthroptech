@@ -10,11 +10,13 @@ title = "Staircase Saturday"
 +++
 Warm in the sun. Manc only 8 apparently.
 
-queue for inhalers outside pharmacy.
+queue for inhalers outside pharmacy, not available.
 
 dropped in on bungalow, stairs, boards.
 
 garden, lots of new colour
+
+PIC
 
 dads birthday, strange not making plans to eat out.
 
