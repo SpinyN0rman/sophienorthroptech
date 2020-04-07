@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Sopha Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2020 20:50:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 13:41:27 +0000</lastBuildDate>
     
 	<atom:link href="https://sophie.northrop.tech/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Covid-19 Pandemic</title>
+      <link>https://sophie.northrop.tech/categories/covid-19-pandemic/</link>
+      <pubDate>Fri, 03 Apr 2020 13:41:27 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/categories/covid-19-pandemic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self Care</title>
+      <link>https://sophie.northrop.tech/categories/self-care/</link>
+      <pubDate>Fri, 03 Apr 2020 13:41:27 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/categories/self-care/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Children’s Activities</title>
@@ -17,15 +35,6 @@
       <pubDate>Tue, 31 Mar 2020 20:50:22 +0000</pubDate>
       
       <guid>https://sophie.northrop.tech/categories/childrens-activities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Covid-19 Pandemic</title>
-      <link>https://sophie.northrop.tech/categories/covid-19-pandemic/</link>
-      <pubDate>Tue, 31 Mar 2020 20:50:22 +0000</pubDate>
-      
-      <guid>https://sophie.northrop.tech/categories/covid-19-pandemic/</guid>
       <description></description>
     </item>
     
@@ -66,7 +75,7 @@
     </item>
     
     <item>
-      <title>Mental health</title>
+      <title>Mental Health</title>
       <link>https://sophie.northrop.tech/categories/mental-health/</link>
       <pubDate>Thu, 26 Mar 2020 07:38:11 +0000</pubDate>
       
@@ -80,15 +89,6 @@
       <pubDate>Thu, 26 Mar 2020 07:38:11 +0000</pubDate>
       
       <guid>https://sophie.northrop.tech/categories/religion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self Care</title>
-      <link>https://sophie.northrop.tech/categories/self-care/</link>
-      <pubDate>Thu, 26 Mar 2020 07:38:11 +0000</pubDate>
-      
-      <guid>https://sophie.northrop.tech/categories/self-care/</guid>
       <description></description>
     </item>
     
@@ -143,6 +143,15 @@
       <pubDate>Sat, 21 Mar 2020 20:15:18 +0000</pubDate>
       
       <guid>https://sophie.northrop.tech/categories/new-home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hobbies/ Interests</title>
+      <link>https://sophie.northrop.tech/categories/hobbies/-interests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sophie.northrop.tech/categories/hobbies/-interests/</guid>
       <description></description>
     </item>
     
