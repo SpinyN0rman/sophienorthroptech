@@ -8,9 +8,9 @@ summary = "Plodded and yawned my way through the day"
 title = "Le-thargic Thursday"
 
 +++
-This lovely sloth was given to Amber by one of her uncles for a Christmas gift. She was playing with it today, and I thought “yes, I feel like one of those moves!”
+This lovely sloth was given to Amber by one of her uncles for a Christmas gift. She was playing with it today, and I thought “yes, I feel like the way one of those moves”.
 
-Made vegan cupcakes with children. All the different spellings of “cake” were amazing!! Cup caces, cacs. My favourite though is cup “cacks” a slang term for underwear. What’s better is that if I type the word cacks into a search engine, it shows me cake recipes! So it seems Amber’s not alone in spelling things phonetically!
+Made vegan cupcakes with children. All the different spellings of “cake” on beautifully made flags were amazing!! Cup caces, cacs. My favourite though was cup “cacks” a slang term for underwear. What’s better is that if I type the word cacks into a search engine, it shows me cake recipes! So it seems Amber’s not alone in spelling things phonetically!
 
 ![](56CA08F8-BE2A-4DF0-A205-18919D32A742.jpeg)
 
