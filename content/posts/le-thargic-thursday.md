@@ -11,7 +11,7 @@ title = "Le-thargic Thursday"
 This lovely sloth was given to Amber by one of her uncles for a Christmas gift. She was playing with it today, and I thought “yes, I feel like one of those!”
 
   
-Made vegan cupcakes with children. All the different spellings of “cake” were amazing!! My favourite though is “cacks”
+Made vegan cupcakes with children. All the different spellings of “cake” were amazing!! KaMy favourite though is “cacks” a slang term for underwear. What’s better is that if I type the word cacks into a search engine, it shows me cake recipes! So it seems Amber’s not alone in spelling things phonetically!
 
 Did some Times Tables Rockstars
 
