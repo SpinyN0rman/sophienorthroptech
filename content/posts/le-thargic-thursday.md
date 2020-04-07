@@ -2,7 +2,6 @@
 author = "Sophie Northrop"
 categories = ["Hobbies/ Interests", "Covid-19 Pandemic", "Food & Cooking"]
 date = 2020-04-03T13:58:52Z
-draft = true
 image = "/uploads/162A9BF5-F885-4CF4-ADA6-0167F27B2E7D.jpeg"
 summary = "Plodded and yawned my way through the day"
 title = "Le-thargic Thursday"
