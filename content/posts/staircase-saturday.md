@@ -16,8 +16,10 @@ Dropped in on bungalow, blown away to see that the stairs have been installed, a
 
 There was lots of new colour in the garden this weekend - new pink blossom, white blossom, subtle yellow primroses and the most striking reddish pink flowers. I love observing spring unfold in all its small ways, but doing this in an unfamiliar place which will one day be my home and somewhere I tend to is just on another level.
 
-dads birthday, strange not making plans to eat out.
+![](/uploads/E7165388-D0B3-48CE-8428-20353C28BAAB.jpeg)
 
-lasagne, veggie, first make. Very impressed and had seconds! Ate in front of Aladdin with girls. Liked it!
+It’s Dad’s birthday today. Happy Birthday, Dad! Very strange not making plans to eat out or to stop by for a cuppa and cake. Even dropping a card off was weird, and the token gifts we rounded up from around the house were skeleton at best. I might order something online at a later date, but to be honest just spending time with family is the best part about birthdays. I look forward to sharing lots of belated meals in the months after lockdowns have been lifted. (You’ve really got to “hold on to hope if you’ve got it” - thank you Paramore for that beautiful song.)
 
-quiz evening with family. Good to see their faces and hear their voices. Bitter sweet. A laugh. Gained a bit of general knowledge, sure it will be promptly forgotten but interesting nonetheless..
+Lasagne tonight, a veggie one, first time I’ve made one in years! Very impressed and had seconds. Ate in front of Aladdin with girls. They liked the film.. I was glued to this, one of my childhood favourites.
+
+Virtual quiz evening with Andi’s family, including his impressively mobile-device-capable 89 year old Auntie. Good to see their faces and hear their voices. Bitter sweet. A laugh. Gained a bit of general knowledge: Sure it will be promptly forgotten but interesting nonetheless..
