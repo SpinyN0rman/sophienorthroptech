@@ -11,7 +11,7 @@ This lovely sloth was given to Amber by one of her uncles for a Christmas gift. 
 
 Made vegan cupcakes with children. All the different spellings of “cake” on beautifully made flags were amazing!! Cup caces, cacs. My favourite though was cup “cacks” a slang term for underwear. What’s better is that if I type the word cacks into a search engine, it shows me cake recipes! So it seems Amber’s not alone in spelling things phonetically!
 
-![](56CA08F8-BE2A-4DF0-A205-18919D32A742.jpeg)
+![](/uploads/56CA08F8-BE2A-4DF0-A205-18919D32A742.jpeg)
 
 Did some Times Tables Rockstars. This is an app recommended through school, which has proven a success with the children. They get to create an avatar rockstar; ours is called Julez California. The children basically answer as many questions in each timed round as possible, supposedly pertaining to their declared level of times table expertise.. this is debatable! But despite the discrepancy where some questions seem out of reach, it works well because with every correctly answered question, the children earn coins - which they can exchange for new virtual clothes, features, backgrounds or instruments. Incentive is definitely there.. we’ll see how long it lasts.
 
