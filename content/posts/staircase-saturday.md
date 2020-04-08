@@ -8,15 +8,13 @@ summary = ""
 title = "Staircase Saturday"
 
 +++
-Warm in the sun. Manc only 8 apparently.
+Warm in the sun today. Manchester, home to my in-laws, is a lot cooler apparently.
 
-queue for inhalers outside pharmacy, not available.
+Queued for inhalers outside a different pharmacy to yesterday, not available after 45 minutes or so. Will need to wait for highly demanded stock to arrive.
 
-dropped in on bungalow, stairs, boards.
+Dropped in on bungalow, blown away to see that the stairs have been installed, and plasterboards fixed around most of the loft rooms now. Our baby elephants were busy plodding up and down the stairs as many times as they could muster. Finally we sat outside for a while in the warmth. It felt so nice to have sun on my skin! A couple of our first butterfly sightings of the year - Nanny had beaten us to it the week before. A shield bug also landed on me (and peed on my hand in its fright) which tickled Amber immensely!
 
-garden, lots of new colour
-
-PIC
+There was lots of new colour in the garden this weekend - new pink blossom, white blossom, subtle yellow primroses and the most striking reddish pink flowers. I love observing spring unfold in all its small ways, but doing this in an unfamiliar place which will one day be my home and somewhere I tend to is just on another level!
 
 dads birthday, strange not making plans to eat out.
 
