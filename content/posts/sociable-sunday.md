@@ -8,9 +8,11 @@ summary = "Saw multiple people in the same place at the same time!! (Courtesy of
 title = "Sociable Sunday"
 
 +++
-Sleep and headache
+On this Palm Sunday we participated in worship via a live stream again. One of the leaders retold the moving story of Jesus riding into Jerusalem, putting a vivid spin on it by comparing that meaningful journey to various roads and landmarks in our own town. 
 
-they played top trumps
+Feeling sleepy this afternoon, and a mild headache worsened while I tried to drift off, before finally subsiding.
+
+While I semi-slept Andi played Top Trumps with the girls. They then all went out for a walk, to the local field, and left me to come around in peace. Once I was sure the headache had gone, I peeled myself off the sofa to sort out a box of paper and junk that had been gaining weight for a week or so. Enjoyed the quiet space to methodically rip out used notebook pages to create essentially a new one for the kids’ paper drawer. Managed to recycle lots of redundant stuff.
 
 church and zoom coffee
 
