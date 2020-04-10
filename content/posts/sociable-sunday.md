@@ -20,12 +20,6 @@ Feeling sleepy this afternoon, and a mild headache worsened while I tried to dri
 
 While I semi-slept Andi played Top Trumps with the girls. They then all went out for a walk, to the local field, and left me to come around in peace. Once I was sure the headache had gone, I peeled myself off the sofa to sort out a box of paper and junk that had been gaining weight for a week or so. Enjoyed the quiet space to methodically rip out used notebook pages to create essentially a new one for the kids’ paper drawer. Managed to recycle lots of redundant stuff.
 
-Childish gambino
+Relished in Childish Gambino’s eclectic sound while prepared the table for leftovers for our dinner, too.
 
 ![](/uploads/0796F1CC-482E-4E47-9D79-A6379BFD81BB.jpeg)
-
-leftovers for dinner.
-
-sort out box of paper and junk, clearing notebook
-
-mums hug ring
