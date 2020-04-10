@@ -8,7 +8,7 @@ summary = "Went to bed too late last night!"
 title = "Tired Tuesday"
 
 +++
-Also didn’t set an alarm to wake up at a decent time. Also didn’t make time for breakfast for the first time in about three weeks - have been doing well!
+Didn’t set an alarm last night to wake up at a decent time today. Also didn’t make time for breakfast for the first time in about three weeks - had been doing so well!
 
 Big fortnightly food shop. Left fresh fruit and veg until last and ran out of trolley room. Andi assured me when I returned home that it takes a while longer than I likely think for people to become malnourished. Point taken.
 
