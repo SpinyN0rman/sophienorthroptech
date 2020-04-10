@@ -7,7 +7,7 @@ summary = "A surprisingly productive day"
 title = "WhatsApp Wednesday"
 
 +++
-Resorted to waving to my friend, WhatsApp was so quiet, and then Zoom was silent for her and slightly improved for the rest of us. Was good to have contact, even if it was stinted. I think a few good old fashioned phone calls with some of my closest friends are overdue.
+Resorted to waving to my friend, WhatsApp was so quiet, and then Zoom was silent for her and slightly improved for the rest of us. Was good to have contact, even if it was stinted. I think a few good old fashioned phone calls with some of my closest friends are overdue..
 
 Clara played on my tablet this afternoon, and loves one particular Barbie game in which you can pamper the characters. (Here’s one of her nail salon jobs!)
 
