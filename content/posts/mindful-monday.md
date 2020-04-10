@@ -2,7 +2,6 @@
 author = "Sophie Northrop"
 categories = ["Covid-19 Pandemic", "Children’s Activities", "Funny Stuff", "Religion", "Hobbies/ Interests"]
 date = 2020-04-06T19:31:41Z
-draft = true
 image = "/uploads/81365DA5-D3C5-4F6B-913E-4741E1B779CC.jpeg"
 summary = "A slow start to the week"
 title = "Mindful Monday"
@@ -10,9 +9,11 @@ title = "Mindful Monday"
 +++
 Clara told me something was going to be “Fableous” today. I love it when she says that word! Our eldest also slipped rather sweetly on a longer word today, but already I’ve forgotten what it was...
 
-planning a shop - wanted to call it a charity shop but couldn’t comprehend that the money they made would be going to a chosen charity, so you mean a second hand shop!
+Kids are planning a shop - wanted to call it a charity shop but couldn’t comprehend that the money they made would be going to a chosen charity..
 
-Felt dizzy so spent the latter part of the morning curled up under a blanket on the sofa, with Countdown on in the background until I perked up. Amber attempted the words round and got the word “words” which is a good match for anything I usually come up with - 5 letters, yeah! I prefer the numbers round but the one I caught today before drifting off flummoxed all of us except for Rachel.
+“So you mean a second hand shop?”
+
+Felt dizzy so spent the latter part of the morning curled up under a blanket on the sofa, with Countdown on in the background until I perked up. Does that count as homeschooling? Amber attempted the words round and got the word “word” which is a decent match for anything I usually come up with! I prefer the numbers round but the one I caught today before drifting off flummoxed all of us except for Rachel.
 
 Wove Grandma a rainbow using a stick found previously in the woods for the curve guide. I warned Amber I’d not woven since school, but after a very slow start (the fabric just didn’t seem to stay where we put it) it eventually took shape and we are thrilled with the finished piece. Probably took the best part of two hours or so. Now just to wrap it and post it for part of Grandma’s belated birthday gift.
 
