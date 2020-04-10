@@ -1,9 +1,9 @@
 +++
 author = "Sophie Northrop"
-categories = []
+categories = ["Jungle Bungalow", "Gardening", "Self Care", "Food & Cooking", "Covid-19 Pandemic", "Hobbies/ Interests"]
 date = 2020-04-04T21:57:39Z
 image = "/uploads/60CA76C0-A416-48B8-96F7-005DE7A7D860.png"
-summary = ""
+summary = "Good to be at our home-in-progress today"
 title = "Staircase Saturday"
 
 +++
