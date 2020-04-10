@@ -2,7 +2,6 @@
 author = "Sophie Northrop"
 categories = ["Coved-19 Pandemic", "Food & Cooking", "Religion", "Children’s Activities", "Music"]
 date = 2020-04-05T15:52:22Z
-draft = true
 image = "/uploads/906FD64B-A48E-4C75-B2B8-4372D18C217F.jpeg"
 summary = "Saw multiple people in the same place at the same time!! (Courtesy of Zoom..)"
 title = "Sociable Sunday"
