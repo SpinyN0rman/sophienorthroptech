@@ -1,6 +1,6 @@
 +++
 author = "Sophie Northrop"
-categories = ["Self Care"]
+categories = ["Self Care", "Food & Cooking", "Covid-19 Pandemic"]
 date = 2020-04-07T10:28:36Z
 image = "/uploads/E9062BAF-987D-455C-B9F4-2DEC6696B246.jpeg"
 summary = "Went to bed too late last night!"
