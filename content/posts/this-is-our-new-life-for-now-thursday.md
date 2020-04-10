@@ -11,3 +11,5 @@ title = "“This is our new life for now” Thursday"
 Planted seeds
 
 muddy play on patio with compost
+
+watched Charlottes web and loved it. Like the closing line about true friend and good writer.
