@@ -1,6 +1,6 @@
 +++
 author = "Sophie Northrop"
-categories = []
+categories = ["Children’s Activities", "Covid-19 Pandemic", "Home Schooling", "Friends & Family"]
 date = 2020-04-08T21:35:57Z
 image = "/uploads/F6C1B01F-282E-4D79-83CA-3DA9FF9761BB.png"
 summary = "A surprisingly productive day"
