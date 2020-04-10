@@ -12,7 +12,7 @@ On this Palm Sunday we participated in worship via a live stream again. One of t
 
 So joyful to see pages of faces on Zoom during the after-service-coffee! What a clever idea. It was sweet how people took it in turns to mute their microphones to allow others to be heard more clearly. I didn’t say much, but soaked up the dynamic for a while of folk seeing friends’ faces and laughing together despite circumstances.
 
-Crackers play a useful part in lunchtimes now that popping out for supplies every other day is not considered ideal. Yummy cracker and cheese lunch with some fruit.
+Crackers play a useful bread-like part in lunchtimes now that popping out for supplies every other day is not considered ideal. Yummy cracker and cheese lunch with some fruit.
 
 Soon after lunch another call, to Grandma, to wish her a happy birthday. Always lovely to speak to her. They were planning a takeaway dinner but sadly all in the vicinity were shut so leftovers were the celebratory dish of the day.
 
