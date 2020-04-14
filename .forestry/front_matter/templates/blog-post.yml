@@ -45,6 +45,7 @@ fields:
   label: Image
   description: Give your post a header image
 pages:
+- content/posts/easter-monday.md
 - content/posts/easter-saturday.md
 - content/posts/easter-sunday.md
 - content/posts/fancy-dress-friday.md
