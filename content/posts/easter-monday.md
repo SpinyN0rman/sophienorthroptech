@@ -14,6 +14,8 @@ tamagotchis introduced
 
 two laundry loads
 
+finished large rainbow collage.
+
 cooked Yorkshire’s on hob! Delicious with gravy and quorn sausages. Finally Amber likes a non meat sausage.
 
 Clara fell asleep on me. Lovely story, part of BFG. Language like Kevins.
