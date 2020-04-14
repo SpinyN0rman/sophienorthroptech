@@ -14,4 +14,4 @@ muddy play on patio with compost
 
 watched Charlottes web and loved it. Like the closing line about true friend and good writer.
 
-andi said he’s discovered what Mandy Thursday means.
+andi said he’s discovered what Maundy Thursday means.
