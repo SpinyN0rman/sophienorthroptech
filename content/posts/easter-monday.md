@@ -8,6 +8,8 @@ summary = ""
 title = "Easter Monday"
 
 +++
+Cleared a sofa of rubbish build up. Very satisfying indeed. Got girls involved by not saying the word tidy!!
+
 Egg hunt on patio
 
 tamagotchis introduced
