@@ -46,6 +46,7 @@ fields:
   description: Give your post a header image
 pages:
 - content/posts/easter-saturday.md
+- content/posts/easter-sunday.md
 - content/posts/fancy-dress-friday.md
 - content/posts/flapjack-friday.md
 - content/posts/good-friday-1.md
